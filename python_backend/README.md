@@ -11,6 +11,9 @@
 	python server.py
 
 
-## testing a producer
+## testing a producer*
 	python producer.py "hello world"
 
+
+
+*open a new terminal window after starting the server.
