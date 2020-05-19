@@ -1,4 +1,4 @@
-# python websocket server example
+# example Python server
 
 ## recommended installation
 
