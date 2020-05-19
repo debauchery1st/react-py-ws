@@ -12,5 +12,5 @@ Python and React websockets
 
 3. open a second terminal window and...
 
-    yarn install
-    yarn start
+        yarn install
+        yarn start
