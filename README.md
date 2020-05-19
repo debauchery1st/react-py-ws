@@ -2,13 +2,16 @@
 Python and React websockets
 
 
+
+
+
 after starting the python_backend/server,
 
-## using yarn
+### using yarn
     yarn install
     yarn start
     
-## using npm
+### using npm
     npm install
     npm run start
     
