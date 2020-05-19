@@ -8,7 +8,7 @@ Python and React websockets
        cd python_backend
 
 
-2. follow the [python_backend/server](https://github.com/debauchery1st/react-py-ws/tree/master/python_backend/README.md) instructions to start the server,
+2. follow the [python_backend/server](https://github.com/debauchery1st/react-py-ws/tree/master/python_backend/README.md) instructions to start the websocket server example,
 
 3. open a second terminal window and...
 
